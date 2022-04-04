@@ -16,7 +16,6 @@ const HeroSection = () => {
                     <img className='img-fluid' alt='steel like an artist' src='images/steel-like-an-artist.jpg' />
                 </div>
             </div>
-
         </section>
     )
 }

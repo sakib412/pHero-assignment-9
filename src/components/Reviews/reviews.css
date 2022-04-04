@@ -1,0 +1,27 @@
+.team-boxed {
+    color: #313437;
+}
+
+.team-boxed p {
+    color: #7d8285;
+}
+
+.team-boxed h2 {
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: inherit;
+}
+
+.team-boxed .people {
+    padding: 50px 0;
+}
+
+
+@media (max-width:767px) {
+    .team-boxed h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px;
+    }
+}
