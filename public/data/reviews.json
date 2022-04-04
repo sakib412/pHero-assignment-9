@@ -6,12 +6,12 @@
             "image": "images/person-1.png"
         },
         "text": "",
-        "rating": 4
+        "rating": 4.5
     },
     {
         "id": 2,
         "user": {
-            "name": "Zahedul Islam Shifat",
+            "name": "Zahedul Islam",
             "image": "images/person-2.png"
         },
         "text": "",
@@ -24,7 +24,7 @@
             "image": "images/person-3.png"
         },
         "text": "",
-        "rating": 4
+        "rating": 3.5
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
             "image": "images/person-1.png"
         },
         "text": "",
-        "rating": 4
+        "rating": 5
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
             "image": "images/person-1.png"
         },
         "text": "",
-        "rating": 4
+        "rating": 3.5
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
             "image": "images/person-1.png"
         },
         "text": "",
-        "rating": 4
+        "rating": 3
     }
 ]

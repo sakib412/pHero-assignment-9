@@ -1,9 +1,12 @@
 import React from 'react'
+import useReview from '../../hooks/useReview'
 import ReviewCard from './ReviewCard.comp'
 import './reviews.css'
 
 const Reviews = () => {
-    const reviews = Array(3).fill(3)
+    let { reviews } = useReview()
+    reviews = reviews.slice(0, 3)
+
     return (
         <div className="team-boxed">
             <div className="row people">
