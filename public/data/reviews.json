@@ -5,7 +5,7 @@
             "name": "Najmus Sakib",
             "image": "images/person-1.png"
         },
-        "text": "",
+        "text": "It's a quick read that you can finish in one sitting, but the ideas and advice it contains will stay with you long after you've put it down. Some of Austin's suggestions will validate what you're already doing, some will challenge you to fundamentally change a creative practice, others will inspire you to grab a notebook and get to work immediately.",
         "rating": 4.5
     },
     {
@@ -14,7 +14,7 @@
             "name": "Zahedul Islam",
             "image": "images/person-2.png"
         },
-        "text": "",
+        "text": "This was such a phenomenal and much needed read for me. Steal Like an Artist gives ideas that apply to anyone who's trying to inject some creativity into their life and their work. It really inspired me and I can't wait for what's next.",
         "rating": 4
     },
     {
@@ -23,8 +23,8 @@
             "name": "Pretom Saha",
             "image": "images/person-3.png"
         },
-        "text": "",
-        "rating": 3.5
+        "text": "There's a lot of common sense stuff in here for all types of creative people. You don't have to be an artist or writer to benefit from these inspirational bits. They can help those who want to be more creative at work, or find room in one's life for a hobby when time is in short supply. There are other tips for managing one's life in order to be able to spend the time doing creative and fulfilling work.",
+        "rating": 3
     },
     {
         "id": 4,
@@ -32,7 +32,7 @@
             "name": "Azizul Islam",
             "image": "images/person-1.png"
         },
-        "text": "",
+        "text": "I recently went to an artist lecture at the Phoenix Art Museum. The audience was a mix of young artists trying to make their way, fans of the artist, and amateur art enthusiasts just there for the experience. While offering words of wisdom to the young artists in the crowd, he said: “every day you have to wake up in the morning and tell yourself a story, even if it's bullshit.”",
         "rating": 5
     },
     {
@@ -41,8 +41,8 @@
             "name": "Tamim Ahmed",
             "image": "images/person-1.png"
         },
-        "text": "",
-        "rating": 3.5
+        "text": "I love how after I finished Kleon's other book, I wanted to check out more of his works, and then found out that this book is his most famous work! I also like the fact that his book titles sound like a click bait but after reading them you will realize that they are accurate.",
+        "rating": 4
     },
     {
         "id": 6,
@@ -50,7 +50,7 @@
             "name": "Farhan Rafik",
             "image": "images/person-1.png"
         },
-        "text": "",
+        "text": "I find it difficult to review 'Steal Like an Artist' because the book is an amalgamation of advice, anecdotes, and uncommon sense. Austin Kleon writes in an easy-to-follow style, instructing readers about how to be creative without talking down to anyone. In fact while I read the book, I felt like I was part of some secret creators club, with this book as the secret club manual.",
         "rating": 3
     }
 ]
