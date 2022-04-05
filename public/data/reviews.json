@@ -30,7 +30,7 @@
         "id": 4,
         "user": {
             "name": "Azizul Islam",
-            "image": "images/person-1.png"
+            "image": "images/person-4.png"
         },
         "text": "I recently went to an artist lecture at the Phoenix Art Museum. The audience was a mix of young artists trying to make their way, fans of the artist, and amateur art enthusiasts just there for the experience. While offering words of wisdom to the young artists in the crowd, he said: “every day you have to wake up in the morning and tell yourself a story, even if it's bullshit.”",
         "rating": 5
@@ -39,7 +39,7 @@
         "id": 5,
         "user": {
             "name": "Tamim Ahmed",
-            "image": "images/person-1.png"
+            "image": "images/person-5.png"
         },
         "text": "I love how after I finished Kleon's other book, I wanted to check out more of his works, and then found out that this book is his most famous work! I also like the fact that his book titles sound like a click bait but after reading them you will realize that they are accurate.",
         "rating": 4
@@ -48,7 +48,7 @@
         "id": 6,
         "user": {
             "name": "Farhan Rafik",
-            "image": "images/person-1.png"
+            "image": "images/person-6.png"
         },
         "text": "I find it difficult to review 'Steal Like an Artist' because the book is an amalgamation of advice, anecdotes, and uncommon sense. Austin Kleon writes in an easy-to-follow style, instructing readers about how to be creative without talking down to anyone. In fact while I read the book, I felt like I was part of some secret creators club, with this book as the secret club manual.",
         "rating": 3

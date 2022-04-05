@@ -33,5 +33,6 @@
 }
 
 .team-boxed .item img {
-    max-width: 160px;
+    width: 8rem;
+    height: 8rem;
 }
