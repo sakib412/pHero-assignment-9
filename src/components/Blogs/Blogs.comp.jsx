@@ -12,7 +12,7 @@ const Blogs = () => {
         {
             id: 2,
             title: "Whats are Semantic tag?",
-            content: ""
+            content: "Semantic tags are thoso tags or elements, that could be easily understand by machine or human. Generally we can use any tag for rendering content, but later developer can be confused which tags is used for what. That is why developer uses different tags or element for different cases. Such as for writing blog we can wrap blog content with 'article' element so that we can differeniate with general item and blog item. Also this is good for SEO and search bot. Some semantic tags are section, table, header, footer,main etc. "
         }
     ]
     return (
